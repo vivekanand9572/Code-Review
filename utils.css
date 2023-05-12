@@ -1,0 +1,43 @@
+.text-center{
+  text-align:center;
+  margin: 0px 0px;
+}
+.bg-red{
+  background-color: red;
+}
+.mx-auto{
+  margin:auto;
+}
+/* .m-x-width{
+  max-width:55.6vw;
+}
+.button{
+  padding:20px;
+} */
+.flex{
+  display:flex
+}
+.flex-col{
+  flex-direction: column;
+}
+.align-items{
+  align-items:center;
+}
+.row{
+  margin:4px 0px;
+}
+.button{
+   margin:0px 4px;
+  border:2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  width: 66px;
+}
+.row1{
+  width: 300px;
+  font-size: 20px;
+  margin:20px 0px;
+  padding:8px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
